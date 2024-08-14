@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Lighting Calcy",
+      "imageSrc": "projects/project.png",
+      "description": "This website is to be used to calculate the no. of lights needed to decorate a specifiic area along with the budget.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "source": "https://github.com/Evneetkaur19/Lighting-Calcy"
+    },
+    {
+      "title": "API-Dashboard",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to combine 2 different API's i.e(News and Weather) to fetch real-time data from it.",
+      "skills": ["React", "Bootstrap"],
+      "source": "https://github.com/Evneetkaur19/News-and-Weather-Dashboard"
+    },
+    {
+      "title": "Firebase Database",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project where I used realtime database importing from Web app called firebase.",
+      "skills": ["HTML", "JavaScript"],
+      "source": "https://github.com/Evneetkaur19/Firebase-Lab"
+    }
+  ]
